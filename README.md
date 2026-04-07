@@ -37,13 +37,17 @@ A full-stack web application that scans websites for common security vulnerabili
 ##  Installation and setup 
 
 ### 1. Clone the repository
-```bash
+
 git clone https://github.com/YOUR_USERNAME/mini-web-security-scanner.git
 cd mini-web-security-scanner
+
+### 2. Backend Setup
 
 cd backend
 pip install -r requirements.txt
 python app.py
+
+### 3. Frontend setup
 
 cd frontend
 npm install
