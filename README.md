@@ -29,26 +29,6 @@ A full-stack web application that scans websites for common security vulnerabili
 
 ---
 
-## Project Structure
-
----
-
-## Project Structure
-
-
-mini-web-security-scanner/
-│
-├── frontend/ # React application
-├── backend/ # Flask API and scanner logic
-│
-├── README.md
-├── .gitignore
-├── LICENSE
-└── .env.example
-
-
----
-
 ## Installation and Setup
 
 ### 1. Clone the repository, frontend and backend setup
